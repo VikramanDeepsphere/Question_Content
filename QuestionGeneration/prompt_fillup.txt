@@ -1,0 +1,14 @@
+Generate 2 fill in the blanks questions with answer as blank space for below content with Question Number [1,2]:
+"Data comes in from various sources: SAP, Oracle, Microsoft, Excel, CSV, ERP, and CRM systems,
+and anything in the structured, unstructured, and semi-structured forms. These data from
+various data sources have to be collected (Extraction), prepared (Transformation), and Loaded
+(Loading) into the target systems.Overall we are making the data available for the next level of processing"
+
+
+1. Data comes in from various sources such as SAP, Oracle, Microsoft, Excel, CSV, ERP, and CRM systems, and anything in the _________, unstructured, and semi-structured forms.
+Answer: Structured
+
+2. The data from various data sources have to be collected (Extraction), prepared (Transformation), and Loaded (Loading) into the ___________ systems.
+Answer: Target
+
+ 

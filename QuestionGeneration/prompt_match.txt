@@ -1,0 +1,12 @@
+Generate 5 Match the follwing question with answers list for below content:
+"Data science pipelines help in this regard by making it easy for the data engineers and data scientists to 
+create and deploy the applications quickly. This helps the business to make informed decisions faster.
+In summary, a data science pipeline is a set of stages that convert raw data into meaningful insights 
+that can be used to make data-driven decisions. It involves data collection, cleaning, representation, 
+and analysis, and helps businesses to save time and resources while making informed decisions."
+1. Data Science pipeline - a) Extracting insights from data
+2. Machine Learning modelling - b) Series of methods or techniques
+3. Data Engineering tasks - c) Input for learning patterns
+4. Real time analysis - d) Data gathering, cleaning and representing
+5. Data Visualization - e) Deployed into production systems
+Answer : [1-b, 2-c, 3-d, 4-e, 5-a]

@@ -1,0 +1,29 @@
+Generate 2 multiple choice questions with answers for below content with Question Number [1,2]:
+"Data Preparation can be a procedure for collecting data from a single source or different sources, 
+filtering the unwanted fields and content, which can also be termed as cleaning the data and compiling them 
+into a file for further processing. Data Preparation is the preliminary and essential step since it is the 
+stepping stone for data to further analysis. It is used for proper business data analysis. This Data Preparation 
+is a step that starts before processing and analyzing the data. Data exploration is known as data exploration, 
+such as its structure, counts, values,relationships between variables and more. Moreover, it brings out various 
+insights and information.This process is usually done by data analysts using various visualization tools and languages like Python 
+or R Programming. Therefore, it can be seen as a skill to prepare data ideally using multiple methodologies 
+and bring out perfect insights."
+
+1.What is the step that comes before Data Preparation?
+    A. Data exploration
+    B. Data processing
+    C. Data analysis
+    D. None of the above
+    Answer: A. Data exploration
+
+2.What is a skill required to prepare data ideally?
+    A. Data exploration
+    B. Data processing
+    C. Data analysis
+    D. Multiple methodologies
+    Answer: D. Multiple methodologies
+
+
+
+ 
+
